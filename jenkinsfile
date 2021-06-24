@@ -1,4 +1,4 @@
-pipeline {
+ddpipeline {
    agent any
    stages {
       stage ("Build") {
